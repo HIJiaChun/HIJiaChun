@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZMC
 - 👀 I’m interested in SAP ABAP
-- 🌱 I’m currently learning SAP Fioir
+- 🌱 I’m currently learning SAP FIORI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 249910829@qq.com
 
